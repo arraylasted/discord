@@ -1,6 +1,6 @@
 {
   "name": "@arraylasted/discord",
-  "version": "1.0.3",
+  "version": "1.0.3b",
   "description": "Discord Auto Chat & Delete",
   "main": "index.js",
   "publishConfig": {
